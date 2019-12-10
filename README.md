@@ -6,6 +6,8 @@ You may not use any external libraries to solve this problem, but you may use ex
 
 There must be a way to supply the application with the input data via text file. The application must run. You should provide sufficient evidence that your solution is complete by, as a minimum, indicating that it works correctly against the supplied test data. Please note that you will be assessed on your judgment as well as your execution.
 
+You need to use one of the fallowing languages: `Ruby`, `Python` or `Javascript`.
+
 # Problem
 
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars. This plateau, which is curiously rectangular, must be navigated by the rovers so that their on-board cameras can get a complete view of the surrounding terrain to send back to Earth.
